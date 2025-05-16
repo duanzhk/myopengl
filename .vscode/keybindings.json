@@ -1,0 +1,7 @@
+{
+    "key": "ctrl+shift+b",
+    "command": "workbench.action.tasks.build",
+    // "command": "workbench.action.tasks.runTask",
+    "args": "C/C++: clang++编译",  // 必须与tasks.json中的label完全一致
+    "when": "editorTextFocus && editorLangId == cpp"  // 仅在CPP文件中生效
+}

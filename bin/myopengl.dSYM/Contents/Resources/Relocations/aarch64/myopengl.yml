@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dzk/Documents/git-projects/myopengl/bin/myopengl'
+relocations:     []
+...
